@@ -37,7 +37,7 @@ def hagan_vol(
     rho,
     nu,
     *,
-    validate,
+    validate=True,
 ):
     """
     Volatilidad implícita de Black-76 bajo el modelo SABR (Hagan 2002).
