@@ -14,7 +14,6 @@ Obloj, J. (2008). Fine-tune your smile: Correction to Hagan et al.
 """
 
 import numpy as np
-from numpy.typing import ArrayLike, NDArray
 
 
 # ---------------------------------------------------------------------------
